@@ -9,7 +9,7 @@ const Card = ({ image, selected, onClick }) => {
         <img
           alt=""
           className="card-back"
-          src={'/assets/question.png'}
+          src={'/memorix/assets/question.png'}
           onClick={onClick}
         />
       </div>

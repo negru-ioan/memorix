@@ -1,13 +1,13 @@
 const shuffle = () => {
   const assets = [
-    { image: '/assets/css.png' },
-    { image: '/assets/html5.png' },
-    { image: '/assets/svelte.png' },
-    { image: '/assets/js.png' },
-    { image: '/assets/angular.png' },
-    { image: '/assets/node.png' },
-    { image: '/assets/react.png' },
-    { image: '/assets/ts.png' },
+    { image: '/memorix/assets/css.png' },
+    { image: '/memorix/assets/html5.png' },
+    { image: '/memorix/assets/svelte.png' },
+    { image: '/memorix/assets/js.png' },
+    { image: '/memorix/assets/angular.png' },
+    { image: '/memorix/assets/node.png' },
+    { image: '/memorix/assets/react.png' },
+    { image: '/memorix/assets/ts.png' },
   ];
   return [...assets, ...assets]
     .sort(() => Math.random() - 0.5)
