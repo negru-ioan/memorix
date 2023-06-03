@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/memorix/static/css/main.8273f309.css",
+    "main.css": "/memorix/static/css/main.65234c83.css",
     "main.js": "/memorix/static/js/main.0fb22c1f.js",
     "service-worker.js": "/memorix/service-worker.js",
     "index.html": "/memorix/index.html",
-    "main.8273f309.css.map": "/memorix/static/css/main.8273f309.css.map",
+    "main.65234c83.css.map": "/memorix/static/css/main.65234c83.css.map",
     "main.0fb22c1f.js.map": "/memorix/static/js/main.0fb22c1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.8273f309.css",
+    "static/css/main.65234c83.css",
     "static/js/main.0fb22c1f.js"
   ]
 }
